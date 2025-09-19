@@ -117,18 +117,6 @@ python main.py https://github.com/username/repo
 
 -----
 
-## Citation
-
-If you use Code2MCP in your research, please cite our paper:
-
-```bibtex
-@article{ouyang2025code2mcp,
-  title={Code2MCP: A Multi-Agent Framework for Automated Transformation of Code Repositories into Model Context Protocol Services},
-  author={Ouyang, Chaoqian and Yue, Ling and Di, Shimin and Zheng, Libin and Pan, Shaowu and Zhang, Min-Ling},
-  journal={arXiv preprint arXiv:2509.05941},
-  year={2025}
-}
-```
 
 
 
